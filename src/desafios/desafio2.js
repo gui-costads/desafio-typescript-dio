@@ -10,14 +10,12 @@ pessoa2.nome = "roberto";
 pessoa2.idade = 19;
 pessoa2.profissao = "Padeiro";
 
-let pessoa3 = {
-    nome: "laura",
-    idade: "32",
-    profissao: "Atriz"
-};
+var pessoa3 = {}
+pessoa3.nome = "laura";
+pessoa3.idade = "32";
+pessoa3.profissao ="Atriz";
 
-let pessoa4 = {
-    nome = "carlos",
-    idade = 19,
-    profissao = "padeiro"
-}
+var pessoa4 = {}
+pessoa4.nome = "carlos";
+pessoa4.idade = 19;
+pessoa4.profissao = "padeiro";
